@@ -79,7 +79,7 @@ Kontener to:
 - zmienna
 - zadne z powyzszych
 
-Aby moc skorzystac z kontenera stos w przestrzeni std w C++, nalezy dolaczyc plik naglowkowy:
+Ktory z plikow naglowkowych zawiera implementacje stosu:
 - #include <math>
 - #include <iostream>
 + #include <stack>
